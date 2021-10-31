@@ -1,0 +1,3 @@
+rootProject.name = "blox-sdk"
+include ':app'
+include ':ImageUtils'
