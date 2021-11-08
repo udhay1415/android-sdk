@@ -23,6 +23,7 @@ publishing {
             groupId = 'com.madstreetden.blox_sdk'
             artifactId = 'blox_sdk'
             version = '1.0'
+
         }
     }
 }

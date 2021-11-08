@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "blox-sdk"
 include ':app'
 include ':myapplication'
+include ':Library'
