@@ -15,10 +15,6 @@ buildscript {
 
 plugins {
     id 'maven-publish'
-    id 'com.android.library'
-    id 'android-maven'
-    id 'kotlin-android'
-    id 'kotlin-android-extensions'
 }
 
 publishing {
