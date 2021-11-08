@@ -1,7 +1,8 @@
 package com.madstreetden.myapplication
 
 class BlurDetection {
-    public fun isBlurred() {
+    fun isBlurred() :String {
         println("Image is blurred")
+        return "statement"
     }
 }
