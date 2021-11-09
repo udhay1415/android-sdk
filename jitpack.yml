@@ -1,0 +1,4 @@
+jdk:
+  - openjdk11
+install:
+  - ./gradlew build :image-utils:build :image-utils:publishToMavenLocal -x :image-utils:sdk
